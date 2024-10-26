@@ -1,0 +1,14 @@
+.upload-card {
+    background-color: #f0f8f2; /* Light green background */
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1); /* Subtle shadow effect */
+  }
+  
+  .upload-card .btn-success {
+    margin-top: 20px;
+  }
+  
+  /* Additional styles can be added as needed */
+  
